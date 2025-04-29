@@ -1,10 +1,10 @@
-package in.co.srdt.ToDo;
+package in.co.srdt.BeHappy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ToDoApplicationTests {
+class BeHappyApplicationTests {
 
 	@Test
 	void contextLoads() {

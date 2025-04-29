@@ -1,4 +1,4 @@
-package in.co.srdt.ToDo.entity;
+package in.co.srdt.Learnig1.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -29,4 +29,5 @@ public class ToDo {
 
     @UpdateTimestamp
     private LocalDateTime updatedAt;
+
 }
